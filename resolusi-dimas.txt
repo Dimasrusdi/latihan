@@ -1,3 +1,4 @@
 RESOLUSI
 -saya ingin bisa membuat aplikasi buatan saya sendiri
 -saya ingin menguasai flutter
+-konsisten belajar mobile programming
